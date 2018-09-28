@@ -1,2 +1,2 @@
 # python
-python excises
+*python study LoL
